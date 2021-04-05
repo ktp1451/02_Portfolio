@@ -32,7 +32,7 @@ h6 {
 
 p {
   margin: 0;
-  font-size: 2rem;
+font-size: 2rem;
 }
 
 header {
@@ -251,11 +251,12 @@ main {
 
 /* portfolio project images */
 .project-1 {
-  background-image: url("../../images/digital-marketing-meeting.jpg");
+  background-image: url("/images/ron-banner-2000-x-600-left.png");
+  background-repeat: none;
 }
 
 .project-2 {
-  background-image: url("");
+  background-image: url("../../images/digital-marketing-meeting.jpg");
 }
 
 .project-3 {
