@@ -32,7 +32,7 @@ h6 {
 
 p {
   margin: 0;
-font-size: 2rem;
+  font-size: 1.3rem;
 }
 
 header {
@@ -60,8 +60,6 @@ header h1 {
   color: var(--dark);
   cursor: pointer;
 }
-
-
 
 nav {
   display: flex; 
@@ -174,7 +172,6 @@ main {
 
 .page-section p {
   margin-bottom: 20px;
-  font-size: medium;
 }
 
 .flex-container {
@@ -251,8 +248,8 @@ main {
 
 /* portfolio project images */
 .project-1 {
-  background-image: url("/images/ron-banner-2000-x-600-left.png");
-  background-repeat: none;
+  background-image: url("../../images/ron-banner-2000-x-600-left.png");
+  background-size:auto;
 }
 
 .project-2 {
