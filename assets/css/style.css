@@ -253,20 +253,14 @@ main {
 }
 
 .project-2 {
-  background-image: url("../../images/digital-marketing-meeting.jpg");
-
+  background-image: url("../../images/color_aura.png");
+  background-size:auto;
 }
 
 .project-3 {
-  background-image: url("../../images/05-third-party-apis-homework-demo.gif");
-}
-
-.project-4 {
-  background-image: url("");
-}
-
-.project-5 {
-  background-image: url("");
+  background-image: url("../../images/login.gif");
+  background-size:auto;
+  background-repeat: none;
 }
 
 /* end portfolio project images */
