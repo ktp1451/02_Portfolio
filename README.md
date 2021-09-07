@@ -1,5 +1,7 @@
 # Unit 02: Advanced CSS
 
+Deployed Link: file:///Users/ktp14/Desktop/SMU_Homework/02_professional_portfolio/index.html
+
 ![alt text](assets/images/screenshot.png)
 
 ## Overview:
@@ -67,41 +69,5 @@ You will be employer-ready if you are able to:
 * Use advanced CSS styling for an enhanced UI.
 
 * Resolve a merge conflict that results from a `git pull`.
-
-## Technical Interview Preparation
-
-You will be employer-competitive if you are able to successfully complete the assessments.
-
-### Assessments
-
-Assess your knowledge by answering technical-interview questions and solving coding challenges in the following assessment:
-
-* [Unit 02 Assessment](https://forms.gle/72YzfNppttviTD8a6)
-
-## Homework
-
-For your homework this week, you will use HTML and advanced CSS techniques to build a responsive, mobile-friendly portfolio web app.
-
-## Career Connection
-
-This week's Career Services material can be found in this unit's [Career Connection folder](./04-Career-Connection/README.md). For more information about Career Services, including coding milestones, demo days, technical toolkits, workshops, and additional resources, visit the [Career Services website](https://mycareerspot.org/).
-
-## Heads-Up
-
-In the next unit, you will learn JavaScript fundamentals such as variables, functions, objects, and arrays.
-
-## Resources
-
-Here are some additional resources to help solidify the topics covered in this unit.
-
-### Git Guide
-
-Refer to the Git Guide to review the git concept for this unit. Watch the `📹 Git Guide` video for an additional walkthrough of the git concept.
-
-  * 📖 [Git Guide: Git Pull and Merge Conflicts](./01-Activities/27-Evr_Git-Pull-Conflict)
-
-  * 📹 [Git Guide Video: Git Pull and Merge Conflicts](https://2u-20.wistia.com/medias/tpw4g61asr)
-
----
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
