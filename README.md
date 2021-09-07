@@ -1,6 +1,6 @@
 # Unit 02: Advanced CSS
 
-Deployed Link: file:///Users/ktp14/Desktop/SMU_Homework/02_professional_portfolio/index.html
+Deployed Link: https://bit.ly/3DUKihH
 
 ![alt text](assets/images/screenshot.png)
 
