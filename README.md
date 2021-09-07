@@ -1,6 +1,6 @@
 # Unit 02: Advanced CSS
 
-Deployed Link: https://bit.ly/3DUKihH
+Deployed Link: https://bit.ly/38xElc0
 
 ![alt text](assets/images/screenshot.png)
 
